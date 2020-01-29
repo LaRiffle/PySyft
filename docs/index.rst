@@ -1,5 +1,5 @@
 .. PySyft documentation master file, created by
-   sphinx-quickstart on Sat Jun  2 20:20:03 2018.
+   sphinx-quickstart on Tue Apr 16 11:04:18 2019.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
@@ -10,18 +10,7 @@ Welcome to PySyft's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-.. automodule:: syft
-   :members:
 
-API Reference
-=============
-
-.. autosummary::
-   :toctree: _autosummary
-
-   syft.core.hooks
-   syft.core.utils
-   syft.core.workers
 
 Indices and tables
 ==================
